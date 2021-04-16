@@ -1,10 +1,12 @@
 # Android-Memory-Game
 Dynamic Initialize Memory Game
 
+## Assignment
 - Create an app that dynamically creates three types of difficulty game of chance.
-
 - Use Ui Thread.
 
+
+## Explanation
 - When the user selects the difficult the initialize the table for the game.
 
 
