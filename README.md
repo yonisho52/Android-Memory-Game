@@ -1,5 +1,5 @@
 # Android-Memory-Game
-Dynamic Initialize Memory Game
+Description: Dynamic Memory Game
 
 ## Assignment
 - Create an app that dynamically creates three types of difficulty game of chance.
